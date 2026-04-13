@@ -14,13 +14,15 @@ Automation Testing (Selenium, API Testing)<br><br>
 
 🌱 I’m currently learning <br><br> 
 Advanced Power BI (DAX, Data Modeling) <br>
-SQL (Complex Queries, Optimization) <br>
-Python for Data Analysis & Machine Learning <br><br>
+SQL for Data Analysis & Testing <br>
+Python for Data Analysis & Machine Learning <br>
+Manual Testing (STLC, Test Cases, Bug Reporting, JIRA) <br><br>
 
 💬 Ask me about <br><br>
 Power BI Dashboards & Data Visualization <br>
 SQL & Excel for Data Analysis <br>
-Beginner Data Analyst Roadmap <br><br>
+Beginner Data Analyst Roadmap<br>
+Manual Testing & QA basics (Test Cases, Bug Reports)<br><br>
 
 ⚡ Fun fact <br><br>
 I enjoy turning raw data into interactive dashboards & business insights 📊
