@@ -1,5 +1,29 @@
 # 💫 About Me:
-I have worked on<br><br>AI-based Text to Image, GIF & Video Generator (React + API + Firebase)<br>Data Analytics projects like E-commerce Dashboard, Hospital Management Dashboard & Ola Cab Analysis<br><br>👯 I’m looking to collaborate on<br><br>Data Analytics projects (Power BI / SQL / Python)<br>AI/ML-based applications & real-world problem solving<br><br>🤝 I’m looking for help with<br><br>Advanced Machine Learning models<br>Industry-level data analytics projects & case studies<br><br>🌱 I’m currently learning<br><br>Advanced Power BI (DAX, Data Modeling)<br>SQL (Complex Queries, Optimization)<br>Python for Data Analysis & Machine Learning<br><br>💬 Ask me about<br><br>Power BI Dashboards & Data Visualization<br>SQL & Excel for Data Analysis<br>Beginner Data Analyst Roadmap<br><br>⚡ Fun fact<br><br>I enjoy turning raw data into interactive dashboards & business insights 📊
+I have worked on<br><br>AI-based Text to Image, GIF & Video Generator (React + API + Firebase)<br>
+Data Analytics projects like E-commerce Dashboard, Hospital Management Dashboard & Ola Cab Analysis <br><br>
+
+👯 I’m looking to collaborate on <br><br> 
+Data Analytics projects (Power BI / SQL / Python) <br>
+AI/ML-based applications & real-world problem solving <br>
+Manual Testing / QA projects <br><br>
+
+🤝 I’m looking for help with <br><br>
+Advanced Machine Learning models <br> 
+Advanced Data Analytics & real-world case studies <br>
+Automation Testing (Selenium, API Testing)<br><br>
+
+🌱 I’m currently learning <br><br> 
+Advanced Power BI (DAX, Data Modeling) <br>
+SQL (Complex Queries, Optimization) <br>
+Python for Data Analysis & Machine Learning <br><br>
+
+💬 Ask me about <br><br>
+Power BI Dashboards & Data Visualization <br>
+SQL & Excel for Data Analysis <br>
+Beginner Data Analyst Roadmap <br><br>
+
+⚡ Fun fact <br><br>
+I enjoy turning raw data into interactive dashboards & business insights 📊
 
 
 # 💻 Tech Stack:
