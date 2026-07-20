@@ -1,6 +1,6 @@
 # 💫 About Me:
 I have worked on<br><br>AI-based Text to Image, GIF & Video Generator (React + API + Firebase)<br>
-Data Analytics projects like E-commerce Dashboard, Hospital Management Dashboard & Ola Cab Analysis <br><br>
+Data Analytics projects like Retail Sales Performance Dashboard, Data Professional Salary & Survey Analytics, Ola Ride Analytics Dashboard, Swiggy Retail Analytics Dashboard, Healthcare Analytics Dashboard <br><br>
 
 👯 I’m looking to collaborate on <br><br> 
 Data Analytics projects (Power BI / SQL / Python) <br>
